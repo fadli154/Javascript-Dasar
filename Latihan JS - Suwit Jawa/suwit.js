@@ -16,7 +16,6 @@ while (main == true) {
     } else {
       computer = "orang";
     }
-    console.log(computer);
 
     // rules
     if (player === computer) {
